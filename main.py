@@ -27,7 +27,7 @@ squares = [
 ]
 block = pygame.Rect(0, 0, 32, 32)
 
-player_pos = (2, 0)
+player_pos = (2, 1)
 player_color = (0, 0, 255)
 
 
